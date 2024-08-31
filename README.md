@@ -20,3 +20,6 @@ I'd love contributions to the repo. Feel free to open a PR.
 1. Files should be appropriately stored in a subdirectory.
 2. Files should _not_ have an extension.
 
+## Credits
+
+A special thank you to [imrat](https://x.com/imrat) and [Cursor Directory](https://cursor.directory) for inspiration.
