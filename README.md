@@ -16,3 +16,7 @@ To use these prompts:
 ## Contributing
 
 I'd love contributions to the repo. Feel free to open a PR.
+
+1. Files should be appropriately stored in a subdirectory.
+2. Files should _not_ have an extension.
+
