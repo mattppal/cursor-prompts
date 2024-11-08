@@ -24,10 +24,10 @@ Convert an SRT transcript into an engaging YouTube video description.
    - If code is unknown, use [CODE_SNIPPET_PLACEHOLDER]
 
 5. Social links (return ALL links):
-   - X: https://x.com/mattppal?utm_source=youtube&utm_medium=social&utm_campaign=[VIDEO_TITLE]
-   - GitHub: https://github.com/mattppal?utm_source=youtube&utm_medium=social&utm_campaign=[VIDEO_TITLE]
-   - Website: https://mattpalmer.io?utm_source=youtube&utm_medium=social&utm_campaign=[VIDEO_TITLE]
-   - LinkedIn: https://www.linkedin.com/in/matt-palmer/?utm_source=youtube&utm_medium=social&utm_campaign=[VIDEO_TITLE]
+   - X: https://x.com/mattppal
+   - GitHub: https://github.com/mattppal
+   - Website: https://mattpalmer.io
+   - LinkedIn: https://www.linkedin.com/in/matt-palmer
 
 6. Hashtags:
    - 3-5 relevant hashtags
