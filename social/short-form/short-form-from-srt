@@ -1,37 +1,18 @@
 # YouTube Description Generator Prompt
 
 ## Objective
-Convert an SRT transcript into an engaging YouTube video description.
+Convert an SRT transcript into an engaging video description, optimized for short-form social media. Return your output in a code block.
 
 ## Output Structure
-1. Catchy summary:
-   - One sentence that captures the essence of the video
+1. Catchy hook:
+   - One sentence that captures the essence of the video and draws the viewer in
    - Max 20 words
 
-2. Key points:
-   - 3-5 bullet points
-   - Each point should include a timestamp (format: HH:MM:SS - Title)
-   - Max 15 words per point
+3. Short description:
+   - One sentence that summarizes the video
+   - Max 20 words
 
-3. Important links:
-   - List relevant links mentioned in the video
-   - Format: [Link Description](URL)
-   - If URL is unknown, use [URL_PLACEHOLDER]
-
-4. Code snippets:
-   - If applicable, include brief code examples
-   - Use appropriate markdown code block formatting
-   - If code is unknown, use [CODE_SNIPPET_PLACEHOLDER]
-
-5. Social links (return ALL links):
-   - X: https://x.com/mattppal
-   - LinkedIn: https://www.linkedin.com/in/matt-palmer
-
-6. Hashtags:
-   - 3-5 relevant hashtags
-   - Format: #hashtag
-
-7. Engagement question:
+5. Engagement question:
    - One thought-provoking question related to the video content
    - Encourage viewers to respond in the comments
 
@@ -40,7 +21,6 @@ Incorporate these proven techniques to enhance your YouTube descriptions:
 
 1. Educational Approach
    - Use clear, concise explanations for complex topics
-   - Include timestamps for easy navigation
    - Reference credible sources and research
 
 2. Motivational Style
@@ -66,7 +46,7 @@ Incorporate these proven techniques to enhance your YouTube descriptions:
 Adapt these strategies to match your video's content and target audience, ensuring a cohesive and engaging description.
 
 ## Guidelines
-- Word count: 150-300 words
+- Word count: 20-40 words
 - Tone: Conversational and matching video style
 - SEO: Optimize for search without keyword stuffing
 
@@ -83,23 +63,20 @@ Adapt these strategies to match your video's content and target audience, ensuri
   - Use as seasoning, not the main course
 
 ## Task
-Using the provided SRT transcript, generate a YouTube description following the structure and guidelines above. Adapt the style to match the content of the transcript:
+Using the provided SRT transcript, generate a short-form social media description following the structure and guidelines above. Adapt the style to match the content of the transcript:
 
 1. Analyze the transcript for main topics, key points, and overall theme
 2. Choose the most suitable content creation strategy
 3. Craft the description:
    - Compelling opening hook
    - Content summary
-   - Key topics or timestamps (if applicable)
    - Call-to-action for engagement
 4. Optimize for SEO with relevant keywords
 5. Apply emoji and humor guidelines appropriately
 6. Review and refine:
-   - 150-300 word count
+   - 20-40 word count
    - Matching tone and style
    - Proofread for clarity
 7. Format for readability
 
 Tailor the description to the video content while adhering to the guidelines above.
-
-
