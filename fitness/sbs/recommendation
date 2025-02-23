@@ -1,0 +1,212 @@
+# Advanced Lifter Program Analysis & Optimization
+
+<lifter_metrics>
+| Metric            | Value     | Notes                      |
+|-------------------|-----------|----------------------------|
+| Experience        | 10+ years | Advanced                   |
+| Squat 1RM         | 455 lbs   | Competition style          |
+| Deadlift 1RM      | 525 lbs   | Competition style          |
+| Bench 1RM         | 300 lbs   | Competition style          |
+| Current Frequency | 5x/week   | Reported excessive fatigue |
+| Session Duration  | ~2 hours  | Reported unsustainable     |
+</lifter_metrics>
+
+<research_parameters>
+## Evidence-Based Volume Landmarks
+
+| Parameter                  | MEV    | MAV   | MRV   |
+|----------------------------|--------|-------|-------|
+| Weekly Sets (Large Muscle) | 4-6    | 12-20 | 20-25 |
+| Weekly Sets (Small Muscle) | 3-4    | 10-16 | 16-20 |
+| Recovery Window            | 48-72h | -     | -     |
+
+*MEV: Minimum Effective Volume*  
+*MAV: Maximum Adaptive Volume*  
+*MRV: Maximum Recoverable Volume*
+</research_parameters>
+
+<movement_pattern_analysis>
+## Current Exercise Distribution
+
+### Compound Movements
+```markdown
+Primary Patterns:
+1. Squat-Based
+   - Back Squat
+   - Pause Back Squat
+   - Bulgarian Split Squats
+
+2. Hinge-Based
+   - Deadlift
+   - RDL
+   - Single Leg RDL
+   - Nordic Curls
+
+3. Push-Based
+   - Bench Press
+   - Dumbbell Bench
+   - CB Bench
+   - Seated OHP
+   - Dips
+
+4. Pull-Based
+   - Pull Ups
+   - Chin Ups
+   - Chest Supported Row
+   - Single Arm DB Row
+   - Face Pulls
+```
+</movement_pattern_analysis>
+
+<volume_optimization>
+## Recommended Program Structure
+
+### 4-Day Split
+```markdown
+Day 1: Primary Lower
+- Main: Back Squat (3-5 x 2-5)
+- Secondary: RDL (3-4 x 5-8)
+- Accessories: 2-3 movements (3 x 8-12)
+
+Day 2: Primary Upper
+- Main: Bench Press (3-5 x 2-5)
+- Secondary: OHP (3-4 x 5-8)
+- Pull: Pull-ups/Rows (3-4 x 6-10)
+- Accessories: 2-3 movements (3 x 8-12)
+
+Day 3: Rest & Recovery
+
+Day 4: Secondary Lower
+- Main: Variation Squat/BSS (3-4 x 6-8)
+- Secondary: Single Leg Work (3 x 8-12)
+- Accessories: 2-3 movements (3 x 10-15)
+
+Day 5: Secondary Upper
+- Main: Variation Bench (3-4 x 6-8)
+- Secondary: Row Variation (3-4 x 8-12)
+- Accessories: 2-3 movements (3 x 10-15)
+
+Days 6-7: Rest & Recovery
+```
+</volume_optimization>
+
+<exercise_selection>
+## Movement Selection Guidelines
+
+### Primary Compounds
+| Movement Type | Exercise Selection | Sets x Reps | RPE |
+|---------------|--------------------|-------------|-----|
+| Squat         | Back Squat         | 3-5 x 2-5   | 7-9 |
+| Hinge         | Deadlift/RDL       | 3-4 x 3-6   | 7-9 |
+| Press         | Bench Press        | 3-5 x 2-5   | 7-9 |
+| Pull          | Pull-ups/Rows      | 3-4 x 6-10  | 7-8 |
+
+### Secondary Movements
+| Movement Type | Exercise Selection | Sets x Reps | RPE |
+|---------------|--------------------|-------------|-----|
+| Squat         | BSS/Pause Squat    | 3-4 x 6-8   | 7-8 |
+| Hinge         | Single Leg RDL     | 3 x 8-12    | 7-8 |
+| Press         | DB/CB Bench        | 3-4 x 8-12  | 7-8 |
+| Pull          | Row Variations     | 3-4 x 8-12  | 7-8 |
+</exercise_selection>
+
+<volume_management>
+## Volume Control Parameters
+
+### Per-Session Guidelines
+```markdown
+Primary Movements:
+- Working Sets: 3-5
+- RPE Range: 7-9
+- Rest Periods: 3-5 minutes
+- Weekly Frequency: 1-2x
+
+Secondary Movements:
+- Working Sets: 3-4
+- RPE Range: 6-8
+- Rest Periods: 2-3 minutes
+- Weekly Frequency: 1-2x
+
+Accessory Work:
+- Working Sets: 2-3
+- RPE Range: 7-8
+- Rest Periods: 1-2 minutes
+- Weekly Frequency: 2x
+```
+</volume_management>
+
+<recovery_protocols>
+## Recovery Management
+
+### Rest Periods
+| Training Element    | Minimum Rest | Optimal Rest |
+|---------------------|--------------|--------------|
+| Primary Compounds   | 3 minutes    | 5 minutes    |
+| Secondary Compounds | 2 minutes    | 3 minutes    |
+| Isolation Work      | 1 minute     | 2 minutes    |
+
+### Deload Protocol
+```markdown
+Frequency: Every 4-6 weeks
+Volume: Reduce by 40-50%
+Intensity: Maintain 80-85% of working weights
+Duration: 5-7 days
+```
+</recovery_protocols>
+
+<implementation_strategy>
+## Program Implementation
+
+### Session Structure
+| Phase       | Duration  | Focus         | RPE |
+|-------------|-----------|---------------|-----|
+| Warm-up     | 10-15 min | Movement prep | 5-6 |
+| Primary     | 20-30 min | Main compound | 7-9 |
+| Secondary   | 20-30 min | Support work  | 7-8 |
+| Accessories | 30-40 min | Volume/pump   | 7-8 |
+
+### Progressive Overload
+```markdown
+Primary Lifts:
+- Weekly progression
+- Based on RPE and performance
+- Small increments (2.5-5 lbs)
+
+Secondary Lifts:
+- Bi-weekly progression
+- Volume before weight
+- Technical mastery focus
+```
+</implementation_strategy>
+
+<key_recommendations>
+## Final Recommendations
+
+1. **Volume Reduction**
+   - Decrease weekly frequency to 4 days
+   - Focus on quality over quantity
+   - Maintain intensity on key lifts
+
+2. **Exercise Selection**
+   - Prioritize compound movements
+   - Rotate accessories every 4-6 weeks
+   - Keep prehab/stability work constant
+
+3. **Recovery Focus**
+   - Two full rest days per week
+   - Strategic deloading
+   - Sleep/nutrition emphasis
+
+4. **Progress Monitoring**
+   - Track primary lift progression
+   - Monitor recovery markers
+   - Adjust volume based on performance
+</key_recommendations>
+
+This restructured program balances:
+- Optimal training volume
+- Adequate recovery time
+- Sustainable progression
+- Long-term development
+
+Remember to adjust based on individual response and recovery capacity.
