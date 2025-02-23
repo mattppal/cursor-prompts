@@ -1,0 +1,338 @@
+# Brand Writing Guidelines
+
+# Intro
+
+These are the Replit brand guidelines as of EOY 2024. 
+
+This document informs the style and tone of our user-facing communications, including things like casing, punctuation, and social posts. This is a living document and should be updated as we release new products and evolve our brand. 
+
+- Checking your copy against these guidelines
+    
+    
+    ![CleanShot 2024-12-18 at 10.52.23@2x.png](Brand%20Writing%20Guidelines%20160f7a820bb1801e98cad82321286ed8/CleanShot_2024-12-18_at_10.52.232x.png)
+    
+    A simple way to check your copy against these guidelines is to use Notion AI to run a copy check. 
+    
+    Just click the lil’ “Clippy” looking notion guy and change the context to “In this page,” then ask for copy edits.
+    
+
+---
+
+# Voice and Tone
+
+## Overall product messaging
+
+- **Replit in 40 characters**
+    
+    Idea to app, fast.
+    
+- **Replit in 60 characters**
+    
+    Replit is the fastest way to go from idea to app.
+    
+- **Replit in 140 characters**
+    
+    Replit brings ideas to life. Create apps from any device with zero set-up and AI at your fingertips. Built for beginners and pros alike.
+    
+- **Replit in 400 characters**
+    
+    Replit turns your ideas into apps, fast. With Replit's Agent and Assistant, create apps from natural language and launch them in a single click. Build and deploy full-stack apps directly from your browser—no setup or install required. Whether you're a non-technical beginner or a pro, Replit bridges the gap, empowering everyone to create, collaborate, and bring ideas to life effortlessly.
+    
+- **Replit in 1000 characters**
+    
+    Replit turns your ideas into apps, fast. With Replit, anyone—technical or non-technical—can build and deploy fully-functional, full-stack apps directly from their browser, without any installation, setup, or configuration. Replit's Agent and Assistant enable you to create entire applications from natural language, turning bullet points into working apps in minutes. Its built-in tools, including databases and deployment features, allow you to launch with a single click. Replit bridges the gap between non-technical and technical users, driving collaboration on everything from product roadmaps and prototypes to custom APIs and internal tools. Apps are the new websites, and Replit empowers everyone to not just consume software but to create it, transforming app development into an accessible, instant, and impactful process. Go from "why doesn’t this app exist?" to building it for yourself.
+    
+
+## 👷 Key brand messages
+
+**No Setup/Simplicity**: Replit makes it easy to create apps without any installation or setup. With Agent, users can create an entire development environment from a prompt. We empower anyone, at any level of skill, to focus on the fun, creative part of building.
+
+**Speed**: Replit is the fastest way to go from idea to app.
+
+**Integrated/All-in-one**: Replit works in any programming language, instantly. Our cloud services mean you can do things like add databases, cloud storage, auth, and other integrations without ever leaving your browser tab.
+
+**AI-Powered**: Replit’s two AI tools, Agent & Assistant, take users from zero to MVP and beyond. Agent can stand up a full-stack application, complete with databases and services. Assistant makes targeted edits and adds features. Go from zero to app with just natural language.
+
+**The Place for Development**: Replit lets you build full-stack apps from scratch with AI. Thousands of best-in-class app templates help you get started, fast. Agent and Assistant make editing a breeze. We handle the setup so you can focus on the rest.
+
+**Community**: Join 36 million users to create apps and instantly share them, worldwide. Collaborate in real-time and copy projects with one click.
+
+## Product-specific messaging
+
+[https://www.youtube.com/watch?v=QiW2hXEphpI](https://www.youtube.com/watch?v=QiW2hXEphpI)
+
+### Agent
+
+From prompt to app, Agent is our flagship product. It’s our fully automated developer in the cloud. It can build entire projects from scatch—configuring your development environment, installing all the languages and packages, adding databases, even running the app. All you have to do is describe what you’re after and Agent gets to work. Once you have an MVP, you can use Agent to continue to iterate and add features. Agent supports mentioning files, attaching images, and scraping / screenshotting websites.
+
+### Assistant
+
+Assistant is designed for chat & quick edits to your code. You can ask questions, learn about frameworks, or make multi-file edits. Assistant can make edits, preview changes, and even apply the new code to your files. As with Agent, Assistant supports mentioning files, attaching images, and scraping / screenshotting websites. We find Assistant works well after building a MVP with Agent.
+
+### Replit Apps
+
+Replit Apps are personal software that runs on Replit.—built by Agent or with Assistant, deployed on Replit, or powered by Replit Cloud Services. Replit Apps are simple and opinionated, by default. They’re accessible to anyone, even non-technical users and are the fastest way to go from idea to app.
+
+Simplicity: Deploy straight from the editor. Replit is the fastest way to go from idea to production.
+
+Reliability: Replit’s hosting has high uptime and auto scalability. Go from prototype to full-scale web app all on Replit, and pay only for the resources you use.
+
+Build more with AI: Go from zero to app without a single line of code.
+
+### Mobile App
+
+Code anywhere: Create, share, and host apps all from your mobile device.
+
+Full capabilities: Take the full power of Replit on the go.
+
+### Workspace
+
+Object storage: if you’re new to data, think about object storage like a file directory in the cloud. You can drag and drop files, then access them in your apps. If you’ve built with object storage, we’re backed by GCP and support all Google’s client libraries, as well as our own, simplified SDKs. Use object storage without leaving your browser.
+
+Database: Replit comes pre-built with all the ways you need to store your data. Our built-in Postgres databases are production-grade thanks to our parnter, Neon. You only pay for what you use. We also feature a key-value database (like a JSON dictionary or MongoDB) for simpler apps.
+
+Git: Import existing repositories or initialize new ones. Track and manage your code with the integrated Git pane. Do it all without writing a single git command.
+
+Secrets: Store sensitive data and API Keys securely and easily. We can save your keys at the account or team level, so you never misplace a secret.
+
+Multiplayer: Write, review, and debug your code with collaborators in real-time. Editing is just as smooth as an online Doc.
+
+## Marketing principles
+
+**Referring to our “users”**
+
+People who use Replit (regardless of free or paid) are *developers*, *builders, or software creators*. Avoid using: *creators* without a qualifier, *users*, or *makers*.
+
+*Replit Core members* are individuals who pay for membership.
+
+Examples:
+
+- A Builder Profile blog post may be about someone on a free or paid account
+- A Replit Core member may have a Builder Profile written about them but are still a member
+
+**Messaging should help users understand**
+
+- How does it make a developer's life easier or better? What does it unlock for them?
+- Why should a developer use it?
+- Why should a developer choose it over competitive offers?
+- What type of product or feature are we offering?
+- What does it do?
+
+**Brand experience**
+
+While writing, ask yourself the following questions:
+
+- Is it true?
+- Relevant?
+- Interesting?
+- Clear?
+
+## Do’s and don’ts
+
+**Do:**
+
+- **Create genuine value**
+    - Educate them on how to use new features, and build cool projects
+    - *Example: “Here’s how you can store your sensitive data, like API keys and tokens, safely and securely on Replit.”*
+- **Geek out**
+    - Create content that shows you’re looking at things from their perspective
+    - *Example: “But how can we be sure Replit is truly built for developing robust startups? We know because we used Expandable Storage to run our codebase at Replit.”*
+- **Use plain language and recognized terminology**
+    - If there’s a technical term that is accurate, use it, and link to relevant documentation when appropriate
+    - *Example: “All Repls use [btrfs](https://en.wikipedia.org/wiki/Btrfs) as their filesystem.”*
+- **Only make claims that can be substantiated**
+    - Be factual about the product in your messaging
+    - *Example: “Since its initial launch, the scanned secrets warning has prevented more than 500 API keys and secrets from ending up in open source code.”*
+- **Provide context for what Replit is and what it can do**
+    - *Example: “We have built deployments to be an all-in-one product. Building and deploying in the same place makes for a seamless experience. We continue to add and adjust features to make sure you can do it all within Replit.”*
+- **Focus on the desired outcomes, not just the activities**
+    - *Example: “We’re continuing to improve Ghostwriter's inline actions: Explain Code, Generate Code, and Edit Code. These updates are all about making your coding sessions smoother and more productive.”*
+- **Use a voice that is down-to-earth, but not too corporate or casual**
+    - Replit's voice is authentic and developer-forward, yet friendly, approachable, and inviting.
+- **Use "you" in marketing communications**
+    - *Example: “Build and deploy your own AI transcription app in 3 minutes on Replit.”*
+
+**Don’t:**
+
+- Be hyperbolic
+    - *Example: “The world’s best IDE that everyone loves”*
+- Use fluff or gimmicky hooks
+    - *Example: “Want to make a million dollars in a year? Deploy an app on Replit”*
+- Use language that implies we are an EDU tool
+    - *Example: learn, teach*
+- Use more than one emoji in any type of communication – only use sparingly
+    - Example: 😅😝👇
+
+# Style Guide
+
+## Getting started
+
+Two great ways to review content are Grammarly and Hemingway Editor.
+
+- Take the Grammarly recommendations for common hyphenated words, punctuation, and missing articles.
+- Hemingway Editor is another excellent way to simplify your copy and make text more concise.
+- Then, follow the below Replit-specific guidelines.
+
+Always default to American English for spellings.
+
+## Capitalization
+
+### Capitalize Replit Primitives
+
+Replit primitives are words that refer to parts of the Replit platform. They could be pages, like Community or the Learn page, or features like Agent, Repls, Assistant, Teams, Organizations, etc. They should always be capitalized so users know we’re referring to the platform-specific instance of the term, instead of the generic. 
+
+If you are referring to a known technical concept, Google the term to ensure the capitalization aligns with external guidance.
+
+### Words to capitalize
+
+*Note: this list is a living document. It will continue to evolve as new products and features are released and deprecated.*
+
+- Words
+    - Agent
+    - Assistant
+    - Bounty(/ies)
+    - Community
+    - Console
+    - Core
+    - Deploy(/ment/s)
+    - Explorer
+    - Git
+    - Open/In Progress/Completed/Canceled Bounties
+    - Organization(/s)
+    - Replit App
+    - Replit Desktop App
+    - Replit AI
+    - Replit Agent
+    - Replit Mobile App
+    - Secret(/s)
+    - Service(/s) (when it's related to Bounties, as in "Submit a Service")
+    - Settings
+    - Shell
+    - Static/Autoscale/Reserved VM/Scheduled Deployments
+    - Team(/s)
+    - Template(/s)
+    - Custom Theme(/s)
+    - Workspace
+
+### Words we don’t capitalize
+
+- Words
+    - filetree
+
+## Titles & headings
+
+For all headings, titles, and subheadings, like the title of a blog post for example, use sentence casing, where the first word is capitalized, and all other words besides proper nouns are lowercase.
+
+*Example: Improving the inline Replit AI experience*
+
+## Code
+
+When referencing a code block or a line of code inside of writing, use code formatting. This especially applies when using Markdown, like on the Replit Blog.
+
+In Markdown, indicate inline code by putting backticks (`) around parts of a line:
+
+`insert a line of code here`
+
+If inserting more than one line of code, use a close block by using 3 backticks (```) above and below the lines of code:
+
+```
+
+insert lines of code
+
+more lines of code
+
+even more code
+
+```
+
+In a document, use the IBM Plex Mono or Hack font, if available. Do not reference code within text on social media. Instead, use screenshots when referencing code.
+
+## Date formatting
+
+### Absolute Dates
+
+If a precise date needs to be shown: format it with a 3-letter month code, 2-digit day, comma, and 4-digit year.
+
+*Example: Jan 11, 2012 or Aug 28, 2099*
+
+If it is the current year, consider not displaying the year.
+
+*Example: If it’s 2023, use Jan 12, not Jan 12, 2023*
+
+### Times
+
+Spell am and pm in lowercase, without periods, except for noon and midnight, which should be presented verbatim (i.e., *12:00 noon*). If you need seconds, add them as you expect (i.e., *12:01:59 pm*).
+
+## Punctuation
+
+Use a serial comma (also known as an "Oxford comma") after the penultimate term in a list of terms. In the following example, the serial comma is the one after "explains": *Ghostwriter is an AI pair programmer that completes, generates, explains, and edits your code.*
+
+Decide whether or not you’re going to use periods at the end of bullet points. Be consistent with whatever you decide.
+
+Use exclamation points sparingly.
+
+## Links
+
+Use inline links when possible, and refrain from using “here” as the linked word for accessibility reasons. Instead, describe the document to which you are linking.
+
+## UI elements
+
+Use bold when referring to UI elements.
+
+Example: Select the **Deploy** button.
+
+Refer to UI elements by their position on screen, and refrain from using “click” to refer to the selection of an element. Instead, use “select”
+
+Example: Select the **Deploy** button in the upper-right corner of the Workspace.
+
+## Miscellaneous
+
+When referring to creation, use the verb "Create" instead of the adjective "New." This is to be consistent with other areas of the product.
+
+*Example: Create Repl*
+
+When referring to a username in text, prepend the username with *@*.
+
+*Example: @user894759847*
+
+Use active voice over passive voice where possible.
+
+When referring to Agent or Assistant, we do not use the word “the.” Both products should be capitalized always
+
+*Example: Agent and Assistant are Replit’s newest AI-powered tools*
+
+We use emdashes (—) over hyphens (-) except for hyphenated words. Emdashes should not be surrounded by spaces. 
+
+*Example: Our great-grandmother is a remarkable woman—she’s overcame much in her life.*
+
+# Social Media
+
+## X (Twitter)
+
+Overall:
+
+- Do not use Hashtags
+- Use threads to circumvent X’s algorithm while still conveying meaningful, long-form content.
+- Break posts down into simple, readable sentences.
+- Use newlines to separate ideas
+- When announcing news or breaking information, use the following
+    - NEW: a one sentence update
+    - BREAKING: a one sentence update
+
+For main post:
+
+- Favor media (images / videos) in main posts
+- Do not use external links
+- Do not use hashtags
+- Do not use @ mentions. Image tags are OK, but many people block these due to abuse.
+
+For threads:
+
+- Do: number threads for numeric content. E.g. “Here are our 5 new releases today: 1/ , 2/ , etc”
+- Do: Use images to circumvent links without a nice cover image. Well designed images go a long way
+
+## LinkedIn
+
+## Tiktok
+
+## Instagram

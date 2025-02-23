@@ -1,0 +1,134 @@
+<program_philosophy>
+This program combines powerlifting-style strength progression with bodybuilding hypertrophy principles to simultaneously develop maximal strength and muscle mass while maintaining joint health and longevity.
+</program_philosophy>
+
+<primary_goals>
+- Maximize strength in the three powerlifting movements (squat, bench, deadlift)
+- Build muscle mass through strategic hypertrophy work
+- Maintain joint health and structural balance
+</primary_goals>
+
+## Core Program Structure
+
+<main_lift_protocol>
+1. Opening Single
+   - RPE: 8
+   - Function: Determines working weight for subsequent sets
+   - Frequency: Every main lift session
+   
+2. Working Sets
+   - Sets: 4-5 (varies by focus)
+   - Strength Focus: 4 sets
+   - Hypertrophy Focus: 5 sets
+   - Final Set: AMRAP (As Many Reps As Possible)
+</main_lift_protocol>
+
+<accessory_lift_protocol>
+- Sets: 4
+- Rep Range: 10-15
+- Final Set: To failure
+- Rest Periods: Not specified
+</accessory_lift_protocol>
+
+## Progressive Overload System
+
+<progression_rules>
+Main Lifts:
+```
+IF RPE_single < 8:
+    NEXT_WEEK_WEIGHT = CURRENT_WEIGHT + INCREMENT
+IF RPE_single > 8:
+    NEXT_WEEK_WEIGHT = CURRENT_WEIGHT - INCREMENT
+IF working_sets_performance > expected:
+    NEXT_WEEK_WEIGHT = CURRENT_WEIGHT + INCREMENT
+```
+
+Accessory Lifts:
+```
+IF final_set_reps > target_range_upper:
+    NEXT_WEEK_WEIGHT = CURRENT_WEIGHT + INCREMENT
+IF final_set_reps < target_range_lower:
+    NEXT_WEEK_WEIGHT = CURRENT_WEIGHT - INCREMENT
+```
+</progression_rules>
+
+<autoregulation_parameters>
+1. Primary Performance Indicators:
+   - RPE on opening single
+   - Performance on working sets
+   - Reps achieved on AMRAP sets
+
+2. Secondary Performance Indicators:
+   - Quality of movement
+   - Recovery status
+   - Previous week's performance
+</autoregulation_parameters>
+
+## Exercise Categories
+
+<exercise_classification>
+Primary Compounds:
+- Squat
+- Bench Press
+- Deadlift
+
+Accessory Work:
+- Rep Range: 10-15
+- Focus: Muscle hypertrophy
+- Progression: Based on final set performance
+</exercise_classification>
+
+<programming_considerations>
+1. Volume Management:
+   ```
+   - Main lift volume varies based on focus (4-5 sets)
+   - Accessory work standardized at 4 sets
+   - Total volume autoregulated through performance metrics
+   ```
+
+2. Intensity Control:
+   ```
+   - Main lifts: RPE 8 single sets intensity ceiling
+   - Working sets: Derived from single performance
+   - Accessories: Controlled by rep range parameters
+   ```
+
+3. Fatigue Management:
+   ```
+   - Auto-regulation through RPE
+   - Performance-based weight adjustments
+   - Built-in volume variation
+   ```
+</programming_considerations>
+
+<execution_guidelines>
+1. Main Lift Session Structure:
+   ```
+   1. Warm-up
+   2. Build to RPE 8 single
+   3. Calculate working weight
+   4. Perform working sets
+   5. AMRAP on final set
+   ```
+
+2. Accessory Work Structure:
+   ```
+   1. 4 sets per movement
+   2. 10-15 rep target range
+   3. Final set to failure
+   4. Adjust next week's weight based on performance
+   ```
+</execution_guidelines>
+
+<progress_tracking>
+Key Metrics to Monitor:
+1. Main Lift Progression:
+   - Single lift RPE accuracy
+   - Working weight progression
+   - AMRAP set performance
+
+2. Accessory Lift Progression:
+   - Final set rep performance
+   - Weight progression over time
+   - Quality of execution
+</progress_tracking>

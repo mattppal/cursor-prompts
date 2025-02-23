@@ -1,0 +1,121 @@
+<prompt>
+Take the provided markdown changelog and convert it to a social post using a list of numbers, as follows:
+
+```
+This week's ships from Replit:
+
+1/...
+2/...
+
+```
+Be sure to make the changes a bit more concise, but relay a similar tone.
+
+Use @/writing/brand-guidelines to make sure the post is consistent with Replit's brand.
+</prompt>
+<format>
+- Return your response in a code block
+- Your response should not include any markdown formatting
+- Your response should be a single tweet, not a thread
+</format>
+<example_input>
+---
+title: February 7, 2025
+description: 2 min read
+'og:image': /images/og-image-changelog.png
+'twitter:image': /images/og-image-changelog.png
+---
+
+import { AuthorCard } from '/snippets/author-card.mdx';
+
+<AuthorCard
+  img="https://replit.com/cdn-cgi/image/width=256,quality=80,format=auto/https://storage.googleapis.com/replit/images/1730840970400_e885f16578bbbb227adbfeb7b979be34.jpeg"
+  href="https://replit.com/@matt"
+  name="Matt Palmer"
+  role="Head of Developer Relations"
+/>
+
+## What's new:
+- [Agent is now free to try](#agent-is-now-free-to-try)
+- [Replit Mobile](#replit-mobile) 
+- [New Replit App cover pages](#new-replit-app-cover-pages)
+- [Documentation migration to Mintlify](#documentation-migration)
+- [Drizzle Studio release](#improved-database-viewer)
+- [Input box actions update](#agent-actions)
+
+<div align="center">
+  <img width="50%" src="/images/changelog/2025-02-07/replit-mobile.webp" alt="Screenshot of the redesigned Replit Mobile app interface" />
+</div>  
+
+### Agent is now free to try
+
+Agent and Assistant are now free to try! Whether you're a seasoned Replit developer or just starting out, you can now experiment with these powerful tools without any restrictions.
+
+Your first 10 checkpoints are on us (that includes existing, paid developers too). Select https://replit.com to give them a shot.
+
+<Frame>
+  <img src="/images/changelog/2025-02-07/homepage.png" alt="Screenshot of Assistant and Agent free to try" />
+</Frame>
+
+### Replit Mobile
+
+We've completely rebuilt Replit Mobile from the ground up! Our new mobile app delivers a faster, more intuitive coding experience on the go.
+
+Select https://replit.com/mobile to try it.
+
+<Frame>
+  <img src="/images/changelog/2025-02-07/replit-mobile.png" alt="Launch announcement image for the rebuilt Replit Mobile app" />
+</Frame>
+
+### New Replit App cover pages
+
+Your cover pages got a major upgrade. They're now more developer-friendly and feature the starting prompt for any app built with Agent.
+<Frame>
+  <img src="/images/changelog/2025-02-07/cover-page.png" alt="Example of the redesigned Replit App cover page showing Agent prompt" />
+</Frame>
+
+### Documentation migration
+
+We've upgraded our documentation platform to Mintlify, making it easier than ever to navigate and access information.
+
+<Frame>
+  <img src="/images/changelog/2025-02-07/replit-docs.webp" alt="Demonstration of the new Mintlify documentation navigation and features" />
+</Frame>
+
+A huge thank you to the Mintlify team for their help in migrating our documentation.
+
+### Improved database viewer
+
+Our database viewer now uses **Drizzle Studio**, providing a more robust and developer-friendly experience for interacting with your data.
+
+<Frame>
+  <img src="/images/changelog/2025-02-07/drizzle-kit.png" alt="Screenshot of the new Drizzle Studio database interface" />
+</Frame>
+
+Try it out and let us know what you think!
+
+### Agent actions
+
+Your Agent input box just got smarter with new integrated actions for additional changes. This is just the beginning—we're working on more seamless integrations to make your development experience even smoother.
+
+<div align="center">
+    <img src="/images/changelog/2025-02-07/options-agent.gif" alt="Demo of the new smart input box actions in action" />
+</div>
+</example_input>
+
+<example_output>
+This week in Replit:
+
+1/ Instant GitHub repo imports! Just type replit⁠.com/YOUR_REPO_URL in your browser (no https on your repo url).
+
+2/ You can now sign up and login with X on replit⁠.com
+
+3/ Better failed payments notifications and communication
+
+4/ Object Storage now has search and pagination for easier file browsing
+
+5/ Repls are now "Apps." Forking is now "Remixing." We're keeping it simple!
+
+6/ Improved Agent performance for users in Asia—faster responses thanks to more intelligent cloud provider choices.
+
+7/ Assistant changes now show in temporary diff panes for a cleaner workspace. Tabs will disappear after the change has been applied.
+</example_output>
